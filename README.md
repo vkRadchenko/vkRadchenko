@@ -1,5 +1,5 @@
-## Hi there ✋, I'm Vladimir Radchenko
-### Frontend Developer
+# Hi there ✋, I'm Vladimir Radchenko
+#### Frontend Developer
 I am Vladimir from Russia, and I am a Frontend developer.  I like ui, ux and design in general. 
 
 ## Skills and Experience
