@@ -1,10 +1,9 @@
 # Vladimir Radchenko
-#### Frontend Developer
-I am Vladimir from Russia, and I am a Frontend developer.  I like ui, ux and design in general. 
+#### Fullstack Developer
 
 ## Skills and Experience
-  ⚛ React </br>
-  💻 HTML, CSS, JS, TypeScript</br>
+  ⚛ Java, Spring, Hibernate </br>
+  💻 HTML, CSS, JS, React </br>
   🛠 Webpack</br>
   🎨 Figma</br>
 
